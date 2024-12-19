@@ -4117,7 +4117,7 @@ ul.navlist {
 	transform: translate(-50px, -100px);
 	/* important to make location cross-browser */
 	left: 50%;	
-	opacity: 1;
+	opacity: 0;
 	display: var(--links-display, none) !important;
 }
 
